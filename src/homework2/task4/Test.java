@@ -1,4 +1,4 @@
-package homework2.tusk4;
+package homework2.task4;
 
 import java.util.ArrayList;
 import java.util.Arrays;

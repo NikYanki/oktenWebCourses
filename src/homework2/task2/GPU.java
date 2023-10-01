@@ -1,4 +1,4 @@
-package homework2.tusk2;
+package homework2.task2;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

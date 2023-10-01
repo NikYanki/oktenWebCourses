@@ -1,9 +1,13 @@
-package homework2.tusk3;
+package homework2.task3;
 
-import lombok.NoArgsConstructor;
+import lombok.*;
 
 @NoArgsConstructor
+@Data
+@AllArgsConstructor
 class Papyrus {
+    private String topic;
+
     void page() {
         System.out.println("сторінка виготовлена з очерету");
     }
